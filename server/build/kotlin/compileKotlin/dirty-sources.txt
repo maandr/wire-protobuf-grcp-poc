@@ -1,0 +1,5 @@
+/Users/maandr/Workspace/mms/wire-protobuf-grpc-poc/server/src/main/kotlin/com/mms/fiscas/wire/poc/InvoiceServerApp.kt
+/Users/maandr/Workspace/mms/wire-protobuf-grpc-poc/server/build/generated/source/wire/com/mms/fiscas/wire/poc/proto/InvoiceResponse.kt
+/Users/maandr/Workspace/mms/wire-protobuf-grpc-poc/server/build/generated/source/wire/com/mms/fiscas/wire/poc/proto/InvoiceServiceBlockingServer.kt
+/Users/maandr/Workspace/mms/wire-protobuf-grpc-poc/server/build/generated/source/wire/com/mms/fiscas/wire/poc/proto/InvoiceServiceWireGrpc.kt
+/Users/maandr/Workspace/mms/wire-protobuf-grpc-poc/server/build/generated/source/wire/com/mms/fiscas/wire/poc/proto/InvoiceRequest.kt

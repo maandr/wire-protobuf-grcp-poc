@@ -1,0 +1,1 @@
+/Users/maandr/Workspace/mms/wire-protobuf-grpc-poc/buildSrc/build/classes/kotlin/main/Dependencies.class

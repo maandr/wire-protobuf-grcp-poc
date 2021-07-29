@@ -1,0 +1,16 @@
+syntax = "proto2";
+
+package com.mms.fiscas.wire.poc.proto;
+
+message InvoiceRequest {
+    required string invoiceId = 1;
+}
+
+message InvoiceResponse {
+    required string invoiceId = 1;
+    required int64 amount = 2;
+}
+
+service InvoiceService {
+    rpc GetInvoice (InvoiceRequest) returns (InvoiceResponse) {}
+}
